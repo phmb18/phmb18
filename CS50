@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+main() {
+  printf("Hello World!\n");
+  printf("This is my first cs50 code\n");
+  printf("Thank You!\n");
+}
